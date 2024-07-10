@@ -1,0 +1,147 @@
+/* banner section start */
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn{
+    text-align: center;
+    padding-top: 20px;
+    width: 180px;
+    height: 40px;
+    border: 2px solid  black;
+    border-radius: 10px;
+    background-color: black;
+    margin-top: 20px;
+    margin-left: 870px;
+   
+}
+.btn:hover{
+
+    background-color: #FFFFFF;
+    color: black;
+   
+}
+.btn a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-weight: 600;
+}
+.btn a:hover{
+    color: black;
+}
+.bannerImage{
+    background-image: url(./assets/Hero-bg.png);
+    /* width: 1920px; */
+    height: 652px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.bannericon{
+    text-align: center;
+    padding-top: 50px;
+    
+}
+.bannertext{
+    font-weight: bolder;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 48px;
+    
+}
+.bannertitle{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.557);
+}
+/* banner section end */
+/* why web development section start */
+.webDevText{
+    
+    margin-top: 80px;
+    padding-top: 80px;
+    margin-left: 150px;
+   margin-right: 150px;
+    background-color: #0d13210a;
+    height: 1200px;
+}
+.webDevText h3{
+    font-size: xx-large;
+    font-weight: 700;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.webDevText .titleweb{
+    padding-top: 10px;
+    color: #0d132184;
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 15px;
+    text-align: center;
+}
+.card{
+    display: flex;
+    padding-top: 80px;
+    padding-left: 150px;
+
+    
+}
+
+.cardPart1 h4{
+    font-size: 25px;
+    padding-left: 200px;
+    color: #000000be;
+    
+}
+
+.cardPart1 p{
+    padding-top: 20px;
+    padding-left: 200px;
+
+    color: #0d132186;
+}
+.img1{
+    padding-left: 250px;
+}
+.butTon{
+    width: 110px;
+    height: 50px;
+    background-color: #FFFFFF;
+    text-decoration: none;
+    color: #000000bb;
+    border: 2px solid #0d13215b;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+.butTon:hover{
+    color: #FFFFFF;
+    background-color: black;
+}
+/* why web development section end */
+/* my inspiration start */
+.MyInspiration{
+    margin-top: 80px;
+    padding-top: 80px;
+    margin-left: 150px;
+   margin-right: 150px;
+    text-align: center;
+}
+.MyInspiration h4{
+    font-size: xx-large;
+    font-weight: 700;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.MyInspiration .titleweb{
+    padding-top: 10px;
+    color: #0d132184;
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 15px;
+    text-align: center;
+}
+.videoInsp{
+    padding-top: 30px;
+    padding-left: 550px;
+}
