@@ -121,7 +121,7 @@
 /* why web development section end */
 /* my inspiration start */
 .MyInspiration{
-    margin-top: 80px;
+    margin-top: 30px;
     padding-top: 80px;
     margin-left: 150px;
    margin-right: 150px;
@@ -144,4 +144,99 @@
 .videoInsp{
     padding-top: 30px;
     padding-left: 550px;
+}
+.currentTarget{
+    margin-top: 30px;
+    padding-top: 80px;
+    margin-left: 150px;
+   margin-right: 150px;
+    text-align: center;
+}
+.currentTarget h4{
+    font-size: xx-large;
+    font-weight: 700;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.currentTarget .titleweb{
+    padding-top: 10px;
+    color: #0d132184;
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 15px;
+    text-align: center;
+}
+.cardHCJ{
+    display: flex;
+    padding-top: 50px;
+    padding-left:400px;
+}
+.htmL{
+    padding-top: 30px;
+    padding-left: 20px;
+    margin-left: 20px;
+    
+    width: 360px;
+    height: 250px;
+    background-color: rgba(255, 166, 0, 0.119);
+}
+.htmL h5{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-size: x-large;
+    color: #000000;
+}
+.htmL p{
+    color: #0000008e;
+    padding-bottom: 10px;
+}
+.htmL a{
+    text-decoration: underline;
+    color: #000000;
+}
+
+.csS{
+    padding-top: 30px;
+    padding-left: 20px;
+    margin-left: 20px;
+    width: 360px;
+    height: 250px;
+    background-color: rgba(0, 0, 255, 0.139);
+}
+.csS h5{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-size: x-large;
+    color: #000000;
+}
+.csS p{
+    color: #0000008e;
+    padding-bottom: 10px;
+}
+.csS a{
+    text-decoration: underline;
+    color: #000000;
+}
+
+.jS{
+    padding-top: 30px;
+    margin-left: 20px;
+    padding-left: 20px;
+    width: 360px;
+    height: 250px;
+    background-color: rgba(255, 255, 0, 0.08);
+}
+.jS h5{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-size: x-large;
+    color: #000000;
+}
+.jS p{
+    color: #0000008e;
+    padding-bottom: 10px;
+}
+.js a{
+    text-decoration: underline;       
+    color: #000000c7;
 }
