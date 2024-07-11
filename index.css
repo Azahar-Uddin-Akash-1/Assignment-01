@@ -1,7 +1,14 @@
 /* banner section start */
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@100&display=swap');
 *{
     margin: 0;
     padding: 0;
+}
+body{
+    font-family:  "Azeret Mono", monospace;
+}
+html{
+    scroll-behavior: smooth;
 }
 .btn{
     text-align: center;
@@ -83,7 +90,7 @@
 .card{
     display: flex;
     padding-top: 80px;
-    padding-left: 150px;
+    padding-left: 100px;
 
     
 }
@@ -102,7 +109,7 @@
     color: #0d132186;
 }
 .img1{
-    padding-left: 250px;
+    padding-left: 150px;
 }
 .butTon{
     width: 110px;
@@ -337,4 +344,22 @@
 .input [placeholder]{
     color: #0000001b;
     padding-left: 20px;
+}
+.devloper{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px 80px;
+    background-color: #b9b4b41d;
+    height: 20px;
+    width: 1740px;
+    margin-left: px;
+    
+    
+}
+.devloper .icon{
+    gap: 30px;
+    padding-right: 80px;
+}
+.devloper h4{
+    padding-left: 90px;
 }
